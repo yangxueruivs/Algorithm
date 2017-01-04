@@ -1,0 +1,29 @@
+Computer places a disk in: A8
+  1 2 3 4 5 6 7 8
+A W W W W W W W W
+B W W B W W B W W
+C W B W B W W B W
+D W B B W B W B W
+E W B W B W W B W
+F W B W W B W B W
+G W B B B W B B .
+H W W W W W W B .
+Black score: 21
+White score: 41
+
+
+Computer places a disk in: H8
+  1 2 3 4 5 6 7 8
+A W W W W W W W W
+B W W B W W B W W
+C W B W B W W B W
+D W B B W B W B W
+E W B W B W W B W
+F W B W W B W B W
+G W B B B W B W W
+H W W W W W W W W
+Black score: 19
+White score: 45
+
+White player wins!
+*Reversi>
